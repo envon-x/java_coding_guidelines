@@ -1,0 +1,28 @@
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+
+version = "1.0"
+
+defaultTasks 'clean', 'build'
+
+repositories { 
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.slf4j:slf4j-api:1.7.21'
+    compile group: 'ch.qos.logback', name: 'logback-classic', version: '1.1.7'
+
+    testCompile group: 'org.testng', name: 'testng', version: '6.9.10'
+}
+
+test {
+    useTestNG()
+}
+
+task integrationTest(type: Test, dependsOn: 'test') {
+    useTestNG() {
+      includeGroups 'integration'
+    }
+}
