@@ -8,7 +8,7 @@ https://www.cert.org/secure-coding/publications/books/java-coding-guidelines.cfm
 
 ## Build
 
-    none
+    ./gradlew
 
 # Tentative Schedule
 
