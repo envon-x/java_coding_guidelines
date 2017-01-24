@@ -1,4 +1,4 @@
-package jcg.guideline01.jcg.guideline02;
+package jcg.guideline02;
 
 /**
  *
