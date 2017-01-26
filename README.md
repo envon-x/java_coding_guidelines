@@ -77,3 +77,30 @@ https://www.cert.org/secure-coding/publications/books/java-coding-guidelines.cfm
 | 47. Prefer using iterators over enumerations | CH03:  Reliability | Mar 22 |
 | 48. Do not use direct buffers for short-lived, infrequently used objects | CH03:  Reliability | Mar 22 |
 | 49. Remove short-lived objects from long-lived container objects | CH03:  Reliability | Mar 22 |
+| 50. Be careful using visually misleading identifiers and literals | CH04:  Program Understandability | April 12 |
+| 51. Avoid ambiguous overloading of variable arity methods | CH04:  Program Understandability | April 12 |
+| 52. Avoid in-band error indicators | CH04:  Program Understandability | April 12 |
+| 53. Do not perform assignments in conditional expressions | CH04:  Program Understandability | April 12 |
+| 54. Use braces for the body of an if, for, or while statement | CH04:  Program Understandability | April 12 |
+| 55. Do not place a semicolon immediately following an if, for, or while condition | CH04:  Program Understandability | April 12 |
+| 56. Finish every set of statements associated with a case label with a break statement | CH04:  Program Understandability | April 12 |
+| 57. Avoid inadvertent wrapping of loop counters | CH04:  Program Understandability | April 12 |
+| 58. Use parentheses for precedence of operation | CH04:  Program Understandability | April 12 |
+| 59. Do not make assumptions about file creation | CH04:  Program Understandability | April 12 |
+| 60. Convert integers to floating-point for floating-point operations | CH04:  Program Understandability | April 12 |
+| 61. Ensure that the clone() method calls super.clone() | CH04:  Program Understandability | April 12 |
+| 62. Use comments consistently and in a readable fashion | CH04:  Program Understandability | April 12 |
+| 63. Detect and remove superfluous code and values | CH04:  Program Understandability | April 12 |
+| 64. Strive for logical completeness  | CH04:  Program Understandability | April 12 |
+| 65. Avoid ambiguous or confusing uses of overloading | CH04:  Program Understandability | April 12 |
+| 66. Do not assume that declaring a reference volatile guarantees safe publication of the members of the referenced object | CH05:  Programmer Misconceptions | April 26 |
+| 67. Do not assume that the sleep(), yield(), or getState() methods provide synchronization semantics | CH05:  Programmer Misconceptions | April 26 |
+| 68. Do not assume that the remainder operator always returns a nonnegative result for integral operands | CH05:  Programmer Misconceptions | April 26 |
+| 69. Do not confuse abstract object equality with reference equality | CH05:  Programmer Misconceptions | April 26 |
+| 70. Understand the differences between bitwise and logical operators | CH05:  Programmer Misconceptions | April 26 |
+| 71. Understand how escape characters are interpreted when strings are loaded | CH05:  Programmer Misconceptions | April 26 |
+| 72. Do not use overloaded methods to differentiate between runtime types | CH05:  Programmer Misconceptions | April 26 |
+| 73. Never confuse the immutability of a reference with that of the referenced object | CH05:  Programmer Misconceptions | April 26 |
+| 74. Use the serialization methods writeUnshared() and readUnshared() with care | CH05:  Programmer Misconceptions | April 26 |
+| 75. Do not attempt to help the garbage collector by setting local reference variables to null | CH05:  Programmer Misconceptions | April 26 |
+
