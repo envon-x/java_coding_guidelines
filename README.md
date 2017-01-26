@@ -64,3 +64,16 @@ https://www.cert.org/secure-coding/publications/books/java-coding-guidelines.cfm
 | 34. Try to gracefully recover from system errors | CH02:  Defensive Programming | Mar 8 |
 | 35. Carefully design interfaces before releasing them | CH02:  Defensive Programming | Mar 8 |
 | 36. Write garbage collection–friendly code | CH02:  Defensive Programming | Mar 8 |
+| 37. Do not shadow or obscure identifiers in subscopes | CH03:  Reliability | Mar 22 |
+| 38. Do not declare more than one variable per declaration | CH03:  Reliability | Mar 22 |
+| 39. Use meaningful symbolic constants to represent literal values in program logic| CH03:  Reliability | Mar 22 |
+| 40. Properly encode relationships in constant definitions | CH03:  Reliability | Mar 22 |
+| 41. Return an empty array or collection instead of a null value for methods that return an array or collection| CH03:  Reliability | Mar 22 |
+| 42. Use exceptions only for exceptional conditions| CH03:  Reliability | Mar 22 |
+| 43. Use a try-with-resources statement to safely handle closeable resources| CH03:  Reliability | Mar 22 |
+| 44. Do not use assertions to verify the absence of runtime errors| CH03:  Reliability | Mar 22 |
+| 45. Use the same type for the second and third operands in conditional expressions| CH03:  Reliability | Mar 22 |
+| 46. Do not serialize direct handles to system resources | CH03:  Reliability | Mar 22 |
+| 47. Prefer using iterators over enumerations | CH03:  Reliability | Mar 22 |
+| 48. Do not use direct buffers for short-lived, infrequently used objects | CH03:  Reliability | Mar 22 |
+| 49. Remove short-lived objects from long-lived container objects | CH03:  Reliability | Mar 22 |
