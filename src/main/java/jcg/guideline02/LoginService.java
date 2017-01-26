@@ -1,8 +1,5 @@
 package jcg.guideline02;
 
-/**
- *
- */
 public interface LoginService {
     boolean isUserValid(String username, char[] password);
 

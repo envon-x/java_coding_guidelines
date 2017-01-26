@@ -1,6 +1,6 @@
 package jcg.guideline03;
 
-public class UnmodifiableMutable implements IMutable {
+public final class UnmodifiableMutable implements IMutable {
     private final IMutable mutable;
 
     public UnmodifiableMutable(IMutable mutable) {

@@ -1,8 +1,5 @@
 package jcg.guideline02;
 
-/**
- *
- */
 public class LoginServiceImpl implements LoginService {
     @Override
     public boolean isUserValid(String username, char[] password) {
