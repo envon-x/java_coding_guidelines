@@ -15,7 +15,7 @@ https://www.cert.org/secure-coding/publications/books/java-coding-guidelines.cfm
 | Date    | Chapter | Pages | Moderator |
 |---------|---------|-------|-----------|
 |Jan 25   |CH01:  Security, Guidelines 1 through 9|30|Bob|
-|Feb 8    |CH01:  Security, Guidelines 10 through 21|47|Stuart M|
+|Feb 8    |CH01:  Security, Guidelines 9 through 21|52|Stuart M|
 |Feb 22   |CH02:  Defensive Programming, Guidelines 22 through 28|27|Eric|
 |Mar 8    |CH02:  Defensive Programming, Guidelines 29 through 36|23|Doug|
 |Mar 22   |CH03:  Reliability, Guidelines 37 through 49|33|?|
