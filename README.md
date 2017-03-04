@@ -19,7 +19,7 @@ https://www.cert.org/secure-coding/publications/books/java-coding-guidelines.cfm
 |Feb 22   |CH02:  Defensive Programming, Guidelines 22 through 28|27|Eric|
 |Mar 8    |CH02:  Defensive Programming, Guidelines 29 through 36|23|Doug|
 |Mar 22   |CH03:  Reliability, Guidelines 37 through 49|33|Jeff Braun|
-|April 12 |CH04:  Program Understandability, Guidelines 50 through 65|42|?|
+|April 12 |CH04:  Program Understandability, Guidelines 50 through 65|42|Daniel Kirkdorffer|
 |April 26 |CH05:  Programmer Misconceptions, Guidelines 66 through 75|36|Linus|
 |May 10   |?|?|?|
 |May 24   |?|?|?|
